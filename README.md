@@ -34,7 +34,7 @@ This is my personal point of view and it's not the optimal as well
 
 :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler:
 
-> Hope this going to help someone start the right track! 
+> Hope this i helped! 
 
 :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler:
 
