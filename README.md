@@ -32,11 +32,9 @@ This is my personal point of view and it's not the optimal as well
                       
 ![Automation and Developement](https://i.imgur.com/jTFocFJ.png)
 
-
-
 :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler:
 
-> Hope this gonna help someone! 
+> Hope this going to help someone start the right track! 
 
 :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler:
 
