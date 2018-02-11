@@ -19,12 +19,15 @@ This is my personal point of view and it's not the optimal as well
  
  :bug: One of the most important and essential parts to understand and start with is understanding Testing Fundamentals, as this understanding phase can be the positive difference between good and excellent QA Engineer by achieve higher test scenarios coverage and how the system work
  
-How to start testing and when to use this testing type or that one as examples, can improve the software life cycle and development                        
+ :bug: How to start testing and when to use this testing type or that one as examples, can improve the software life cycle and development                        
 ![Start With Manual testing](https://i.imgur.com/AlJ6UmA.png)
 
 
 
-:bug: I encourage any QA Engineer to ensure that s/he wrap-up the above before starting with automation, as i would say that the main key feature for automation is to *Document Manually Written Test Cases* && **Engineering** it in a way the code would be **readable**, **understandable**, and **reusable**.
+
+> “It’s automation, not automagic.” — Jim Hazen
+
+:crystal_ball: I encourage any QA Engineer to ensure that s/he wrap-up the above before starting with automation, as i would say that the main key feature for automation is to **Document Manually Written Test Cases** && **Engineering** it in a way the code would be **readable**, **understandable**, and **reusable**.
  
                       
 ![Automation and Developement](https://i.imgur.com/jTFocFJ.png)
@@ -33,7 +36,7 @@ How to start testing and when to use this testing type or that one as examples, 
 
 :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler:
 
-> Hope it will help someone putting his/er foot on the right track! 
+> Hope this is going to help someone starting the scaling up! 
 
 :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler:
 
