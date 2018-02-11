@@ -36,7 +36,7 @@ This is my personal point of view and it's not the optimal as well
 
 :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler:
 
-> Hope this is going to help someone starting the scaling up! 
+> Hope this gonna help someone! 
 
 :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler:
 
