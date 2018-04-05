@@ -5,36 +5,27 @@
 ![QA Engineer Roadmap Header](https://i.imgur.com/0geTVDL.png)
 
 
-> Paying back the 'openSource' Community even with minimal efforts is one of the best things that you can do.
+> Below you can find and introduce yourself to the main aspects and technologies that you need to understand and cover if you are planning to start a career in QA Engineering.
 
-
-> Therefore, 
-Below you can find and introduce yourself to the Main aspects that you need to understand and cover if you are planning to start your career growth as Software QA Engineer
-This is my personal point of view and it's not the optimal as well
-
-> Many and many tools and other testing types you can include in here, but just focusing on the main point behind this, i would say that you can find your first step(s) out of this Road Map 
+> This road map is not the optimal as you can add some more types and methodologies, but focusing on the main point behind it, i would say that you can find your first step(s) out it :octocat:
 
                   
-![Testing Fundamentals](https://i.imgur.com/Drkyops.png)
+![Testing Fundamentals](https://i.imgur.com/T1SrLWr.png?2)
  
  :bug: One of the most important and essential parts to understand and start with is understanding Testing Fundamentals, as this understanding phase can be the positive difference between good and excellent QA Engineer by achieve higher test scenarios coverage and how the system work
  
  :bug: How to start testing and when to use this testing type or that one as examples, can improve the software life cycle and development                        
-![Start With Manual testing](https://i.imgur.com/AlJ6UmA.png)
+![Start With Manual testing](https://i.imgur.com/ifRhnEo.png)
 
 
 
 
 > “It’s automation, not automagic.” — Jim Hazen
 
-:crystal_ball: I encourage any QA Engineer to ensure that s/he wrap-up the above before starting with automation, as i would say that the main key feature for automation is to **Document Manually Written Test Cases** && **Engineering** it in a way the code would be **readable**, **understandable**, and **reusable**.
+:crystal_ball: I encourage any QA Engineer to ensure that above is wrapped up before starting with automation, as i would say that the main key feature for automation is to `Document Manually Written Test Cases`  and `Engineering` it in a way the code will be `readable` `understandable` and `reusable`.
  
                       
-![Automation and Developement](https://i.imgur.com/jTFocFJ.png)
+![Automation and Developement](https://i.imgur.com/Hbc9XfG.png)
 
-:sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler:
-
-> Hope that I helped! 
-
-:sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler: :sparkler:
-
+ 
+Please, :star: it if you like it or you learned something after :clap: :clap: 
