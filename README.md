@@ -3,7 +3,7 @@
 
 :closed_book: Below you can find and introduce yourself to the main aspects and technologies that you need to understand and cover if you are planning to start a career in QA Engineering.
 
-:closed_book: This road map is not the optimal as you can add some more types and methodologies, but focusing on the main point behind it, i would say that you can find your first step(s) out it :octocat:
+:closed_book: This road map is not the optimal as you can add some more types and methodologies, but focusing on the main point behind it... I would say that you can find your path out of it :octocat:
 
                   
 ![Testing Fundamentals](https://i.imgur.com/T1SrLWr.png?2)
