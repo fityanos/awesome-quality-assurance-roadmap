@@ -4,7 +4,7 @@ Below you can find and introduce yourself to the main aspects and technologies t
 ## Test Plan Sample :books:
 Complete test plan sample can be found under test_plan_sample.pdf for viewing and download 
 
-![Test fundamentals and manual skills](https://i.imgur.com/yuSgHTQ.png)
+![Test fundamentals and manual skills](https://i.imgur.com/nvuXhUV.png)
 ![Automation and skills](https://i.imgur.com/1gpOhad.png)
 
 
