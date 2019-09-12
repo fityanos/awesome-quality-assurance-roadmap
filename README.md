@@ -17,3 +17,9 @@ Encouraging QA Engineers to ensure that above is covered properly and do not jum
 You can use issues in case your have any suggestion.
 
 
+## Licence
+MIT [Licence](LICENCE)
+
+
+
+
