@@ -2,7 +2,9 @@
 Below you can find and introduce yourself to the main aspects and technologies that you need to understand and cover if you are planning to start a career in QA Engineering.
 
 ## Test Plan Sample :books:
-Complete test plan sample can be found under test_plan_sample.pdf for viewing and download 
+Complete test plan sample can be found under [test_plan_sample.pdf](https://github.com/anas-qa/Quality-Assurance-Road-Map/blob/master/Test_Plan_Sample.pdf) for downloading.
+
+## 
 
 ![Test fundamentals and manual skills](https://i.imgur.com/nvuXhUV.png)
 ![Automation and skills](https://i.imgur.com/1gpOhad.png)
@@ -18,7 +20,7 @@ You can use issues in case your have any suggestion.
 
 
 ## License
-MIT [License](LICENSE)
+[MIT](LICENSE)
 
 
 
