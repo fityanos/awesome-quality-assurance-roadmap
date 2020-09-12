@@ -1,4 +1,4 @@
-## 🔰 Intorduction
+## 🔰 Introduction
 
 Below you can find and introduce yourself to the main aspects and technologies that you need to understand and cover if you are planning to start a career in QA Engineering.
 
