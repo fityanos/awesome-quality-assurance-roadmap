@@ -2,6 +2,17 @@
 
 Below you can find and introduce yourself to the main aspects and technologies that you need to understand and cover if you are planning to start a career in QA Engineering.
 
+<details>
+<summary>Translations:</summary>
+
+:brazil: [Português Brasileiro](translations/README-ptbr.md)
+
+</details>
+
+<details>
+    <summary>Translations in progress:</summary>
+</details>
+
 ## 📚 Test Plan Sample
 
 Complete test plan sample can be found under [test_plan_sample.pdf](https://github.com/anas-qa/Quality-Assurance-Road-Map/blob/master/Test_Plan_Sample.pdf) for downloading.
@@ -23,6 +34,6 @@ Complete test plan sample can be found under [test_plan_sample.pdf](https://gith
 
 Use issues to contibute with any input (translations, adding missing parts...etc)
 
-## License
+## 📄 License
 
 [MIT](LICENSE)
