@@ -23,6 +23,6 @@ Complete test plan sample can be found under [test_plan_sample.pdf](https://gith
 
 Use issues to contibute with any input (translations, adding missing parts...etc)
 
-## License
+## 📄 License
 
 [MIT](LICENSE)
