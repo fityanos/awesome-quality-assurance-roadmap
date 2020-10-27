@@ -6,17 +6,6 @@ Abaixo você pode encontrar os principais aspectos e tecnologias que precisa ent
 
 **Tradutor(es):** [Lucas Dittrich](https://github.com/DittrichLucas)
 
-<details>
-<summary>Traduções:</summary>
-
-:brazil: [Português Brasileiro](translations/README-ptbr.md)
-
-</details>
-
-<details>
-    <summary>Traduções em progresso:</summary>
-</details>
-
 ## 📚 Amostra de Plano de Teste
 
 Um exemplo de plano de teste completo pode ser encontrado em [test_plan_sample.pdf](https://github.com/anas-qa/Quality-Assurance-Road-Map/blob/master/Test_Plan_Sample.pdf) para download.
