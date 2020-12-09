@@ -4,7 +4,7 @@ Below you can find and introduce yourself to the main aspects and technologies t
 
 ## 📚 Test Plan Sample
 
-Complete test plan sample can be found under [test_plan_sample.pdf](https://github.com/anas-qa/Quality-Assurance-Road-Map/blob/master/Test_Plan_Sample.pdf) for downloading.
+Complete test plan sample can be found under [test_plan_sample.pdf](https://github.com/meta5/Quality-Assurance-Road-Map/blob/master/Test_Plan_Sample.pdf) for downloading.
 
 ![QA Engineer Road Map 2020](https://i.imgur.com/oSW5bgk.png)
 ![QA Engineer Road Map 2020](https://i.imgur.com/Zwl0LcY.png)
