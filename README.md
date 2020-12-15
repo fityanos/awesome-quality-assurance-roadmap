@@ -1,6 +1,12 @@
 # Quality Assurance Road Map [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## 🔰 Introduction
+## Contents
+- [Introduction](https://github.com/fityanos/Quality-Assurance-Road-Map#-introduction)
+- [Test Plan Sample](https://github.com/fityanos/Quality-Assurance-Road-Map#-test-plan-sample)
+- [The Road Map](https://github.com/fityanos/Quality-Assurance-Road-Map#-the-road-map)
+- [Advices](https://github.com/fityanos/Quality-Assurance-Road-Map#-advices)
+
+## :bowtie: Introduction
 
 Below you can find and introduce yourself to the main aspects and technologies that you need to understand and cover if you are planning to start a career in QA Engineering.
 
@@ -8,12 +14,12 @@ Below you can find and introduce yourself to the main aspects and technologies t
 
 Complete test plan sample can be found under [test_plan_sample.pdf](https://github.com/anas-qa/Quality-Assurance-Road-Map/blob/master/Test_Plan_Sample.pdf) for downloading.
 
-## The Road Map
+## 🔰 The Road Map
 
 ![QA Engineer Road Map 2020](https://i.imgur.com/oSW5bgk.png)
 ![QA Engineer Road Map 2020](https://i.imgur.com/Zwl0LcY.png)
 
-## 💰 Advice(s)
+## 💰 Advices
 
 - Understand software testing and do not jump into automation
 - Manual testing and test cases creation are the core of all software testing industry
@@ -26,7 +32,3 @@ Complete test plan sample can be found under [test_plan_sample.pdf](https://gith
 ## 🚀 Contribution
 
 Use issues to contibute with any input (translations, adding missing parts...etc)
-
-## 📄 License
-
-[MIT](LICENSE)
