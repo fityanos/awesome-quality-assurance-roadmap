@@ -1,12 +1,12 @@
 # Awesome Quality Assurance Road Map [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
-- [Introduction](https://github.com/fityanos/Quality-Assurance-Road-Map#-introduction)
-- [Test Plan Sample](https://github.com/fityanos/Quality-Assurance-Road-Map#-test-plan-sample)
-- [The Road Map](https://github.com/fityanos/Quality-Assurance-Road-Map#-the-road-map)
-- [Advices](https://github.com/fityanos/Quality-Assurance-Road-Map#-advices)
+- [Introduction](#introduction)
+- [Test Plan Sample](#test-plan-sample)
+- [The Road Map](#the-road-map)
+- [Advices](#advices)
 
-## :bowtie: Introduction
+## Introduction
 
 Below you can find and introduce yourself to the main aspects and technologies that you need to understand and cover if you are planning to start a career in QA Engineering.
 
