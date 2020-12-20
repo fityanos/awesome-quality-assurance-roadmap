@@ -1,4 +1,4 @@
-# Quality Assurance Road Map [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Quality Assurance Road-Map [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 - [Introduction](https://github.com/fityanos/Quality-Assurance-Road-Map#-introduction)
