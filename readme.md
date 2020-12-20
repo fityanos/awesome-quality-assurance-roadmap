@@ -4,22 +4,22 @@
 - [Introduction](#introduction)
 - [Test Plan Sample](#-test-plan-sample)
 - [The Road Map](#-the-road-map)
-- [Advices](#advices)
+- [Advices](#-advices)
 
 ## Introduction
 
 Below you can find and introduce yourself to the main aspects and technologies that you need to understand and cover if you are planning to start a career in QA Engineering.
 
-## 📚 Test Plan Sample
+## Test Plan Sample
 
 Complete test plan sample can be found under [test_plan_sample.pdf](https://github.com/anas-qa/Quality-Assurance-Road-Map/blob/master/Test_Plan_Sample.pdf) for downloading.
 
-## 🔰 The Road Map
+## The Road Map
 
 ![QA Engineer Road Map 2020](https://i.imgur.com/oSW5bgk.png)
 ![QA Engineer Road Map 2020](https://i.imgur.com/Zwl0LcY.png)
 
-## 💰 Advices
+## Advices
 
 - Understand software testing and do not jump into automation
 - Manual testing and test cases creation are the core of all software testing industry
