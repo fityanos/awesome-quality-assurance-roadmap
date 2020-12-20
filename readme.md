@@ -2,8 +2,8 @@
 
 ## Contents
 - [Introduction](#introduction)
-- [Test Plan Sample](#-test-plan-sample)
-- [The Road Map](#-the-road-map)
+- [Test Plan Sample](#test-plan-sample)
+- [The Road Map](#the-road-map)
 - [Advices](#advices)
 
 ## Introduction
