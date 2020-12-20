@@ -29,6 +29,6 @@ Complete test plan sample can be found under [test_plan_sample.pdf](https://gith
 - 200~OK is not always okay
 - Don't trust a test code that you didn't see it fail
 
-## 🚀 Contribution
+## Contributing
 
 See the [contributing.md](https://github.com/fityanos/awesome-quality-assurance-road-map/blob/master/contributing.md) for details on how to contribute.
