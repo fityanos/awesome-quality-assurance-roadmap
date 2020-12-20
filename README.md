@@ -31,4 +31,4 @@ Complete test plan sample can be found under [test_plan_sample.pdf](https://gith
 
 ## 🚀 Contribution
 
-Use issues to contibute with any input (translations, adding missing parts...etc)
+See the [contributing.md](https://github.com/fityanos/awesome-quality-assurance-road-map/blob/master/contributing.md) for details on how to contribute.
