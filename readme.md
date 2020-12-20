@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Test Plan Sample](#-test-plan-sample)
 - [The Road Map](#-the-road-map)
-- [Advices](#-advices)
+- [Advices](#advices)
 
 ## Introduction
 
