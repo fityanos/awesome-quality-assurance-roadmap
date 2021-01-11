@@ -180,3 +180,17 @@ For this we can use many language native libraries, but some standard tools are:
 ## Next steps
 
 This guide offers some basic info about different branches in QA testing. The roadmap is not strict and open for expansion and completing it does not mean QA mastery. From here improvement is self focused. So keep learning.
+
+
+Monday 11012021
+
+What is Test Documentation?
+Why Test Formality?
+Examples of Test Documentation
+Best practice to Achieve Test Documentation
+Advantages of Test Documentation
+Disadvantages of Test Documentation
+Scenario Testing
+Purpose, pros and cons of Scenario Testing
+Steps and tips on how to write scenario testing
+Test cases and how to write them
