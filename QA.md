@@ -233,4 +233,13 @@ Advantages:
  Step 4: Traceability matrix
  Step 5: Reviewing
 
+ Examples of test plan for STLC
+
+ References: 
+ https://www.youtube.com/watch?v=VPnWoroH7yA
+ https://www.youtube.com/watch?v=S2_AJP9Oeg0
+ https://www.youtube.com/watch?v=0uaAJ8GdYWI
+ https://www.youtube.com/watch?v=kqXENOvWe0E
+ https://www.youtube.com/watch?v=jFQfuIEd8sU
+ https://www.youtube.com/watch?v=iWtxEDE1IR4
  
