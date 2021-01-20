@@ -56,7 +56,7 @@ There are 8 examples we have in test documentation:
  https://www.youtube.com/watch?v=iWtxEDE1IR4
  
 
- ### Whitebox testing
+ ### White box testing
  Refers to a scenario where (as opposed to black box testing), the tester deeply understands the inner workings of the system or system component being tested.
 
 ## The key principles that assist you in executing white box tests successfully are:
