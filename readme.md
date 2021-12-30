@@ -24,7 +24,7 @@ Attached PDF can be found here [test_plan_sample.pdf](https://github.com/anas-qa
 
 ## The Road Map
 
-![QA Engineer Road Map 2022](https://i.imgur.com/WdAMbRW.png)
+![QA Engineer Road Map 2022](https://i.imgur.com/cM9cM8T.png)
 ![QA Engineer Road Map 2022](https://i.imgur.com/meodAKp.png)
 
 ## Advices
