@@ -6,6 +6,7 @@
 - [Introduction](#introduction)
 - [Test Plan Sample](#test-plan-sample)
 - [The Road Map](#the-road-map)
+- [Tools](#tools)
 - [Advices](#advices)
 
 ## Introduction
@@ -28,6 +29,10 @@ Attached PDF can be found here [test_plan_sample.pdf](https://github.com/anas-qa
 
 ![QA Engineer Road Map 2022](https://i.imgur.com/cM9cM8T.png)
 ![QA Engineer Road Map 2022](https://i.imgur.com/meodAKp.png)
+
+## Tools
+
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests.
 
 ## Advices
 
